@@ -1,7 +1,0 @@
-UPLOAD NHANH
-
-1. Tạo repository GitHub mới.
-2. Upload toàn bộ file trong thư mục WEB_GITHUB_PAGES vào thư mục gốc repository.
-3. Settings > Pages > Deploy from a branch > main > /(root).
-4. Sao chép URL GitHub Pages.
-5. Mở Wi-Fi MAYAP-xxxx > 192.168.4.1 > nhập URL đó vào ô Web chính GitHub Pages.
