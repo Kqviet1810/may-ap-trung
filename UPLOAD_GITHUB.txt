@@ -1,0 +1,9 @@
+UPLOAD V7 LÊN GITHUB
+
+1. Upload toàn bộ file trong thư mục WEB_GITHUB_PAGES vào root repository may-ap-trung.
+2. Deploy Cloudflare Worker trong thư mục cloudflare-worker.
+3. Sửa config.js: thay THAY-TEN-WORKER bằng URL Worker thật.
+4. Commit lại repository.
+5. Mở web chung: https://kqviet1810.github.io/may-ap-trung/
+
+LƯU Ý: Web GitHub không gọi trực tiếp IP ESP32. Dữ liệu đi qua Cloudflare Worker; ESP32 chủ động đồng bộ HTTPS.
